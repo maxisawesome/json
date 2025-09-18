@@ -45,3 +45,13 @@ nlohmann_json.spdx
 
 # Bazel-related
 MODULE.bazel.lock
+
+# Build files
+CMakeFiles/
+cmake_install.cmake
+CTestTestfile.cmake
+DartConfiguration.tcl
+*.pc
+*Config.cmake
+*ConfigVersion.cmake
+*Targets.cmake
